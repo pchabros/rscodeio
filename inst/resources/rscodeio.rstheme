@@ -97,6 +97,7 @@
 .ace_keyword.ace_other.ace_unit,
 .ace_support.ace_constant,
 .ace_variable.ace_parameter {
+  font-style: italic;
   color: #de935f;
 }
 
@@ -180,6 +181,7 @@
 .ace_support.ace_class,
 .ace_support.ace_type {
   color: var(--type-declaration);
+  font-style: italic;
 }
 
 .ace_heading,
