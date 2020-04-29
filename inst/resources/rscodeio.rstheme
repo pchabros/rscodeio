@@ -90,6 +90,7 @@
 .ace_storage.ace_type,
 .ace_support.ace_type {
   color: var(--keyword);
+  font-style:italic;
 }
 
 .ace_constant.ace_character,
@@ -199,6 +200,7 @@
 
 .ace_comment {
   color: var(--comment);
+  font-style:italic;
 }
 
 /* rmarkdown code */
